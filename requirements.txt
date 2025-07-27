@@ -1,0 +1,9 @@
+torch>=1.10
+transformers>=4.30
+datasets>=2.0
+evaluate>=0.4
+nltk>=3.8
+numpy>=1.21
+matplotlib>=3.4
+tensorflow>=2.8
+tensorflow-datasets>=4.6
