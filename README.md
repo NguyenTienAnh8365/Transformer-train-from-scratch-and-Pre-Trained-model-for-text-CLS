@@ -52,15 +52,15 @@ Together, these notebooks provide a clear comparison between building a Transfor
    pip install -r requirements.txt
    ```
 
-   > torch>=1.10
-   > transformers>=4.30
-   > datasets>=2.0
-   > evaluate>=0.4
-   > nltk>=3.8
-   > numpy>=1.21
-   > matplotlib>=3.4
-   > tensorflow>=2.8
-   > tensorflow-datasets>=4.6
+   > torch>=1.10,
+   > transformers>=4.30,
+   > datasets>=2.0,
+   > evaluate>=0.4,
+   > nltk>=3.8,
+   > numpy>=1.21,
+   > matplotlib>=3.4,
+   > tensorflow>=2.8,
+   > tensorflow-datasets>=4.6,
    > ```
 
 ---
@@ -116,4 +116,4 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ## Contact
 
-For questions or feedback, please contact [Nguyen Tien Anh](anhnguyentien8365@gmail.com).
+For questions or feedback, please contact [Nguyen Tien Anh](mailto:anhnguyentien8365@gmail.com).
