@@ -35,7 +35,7 @@ Together, these notebooks provide a clear comparison between building a Transfor
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/Transformer-train-from-scratch-and-Pre-Trained-model-for-text-CLS.git
+   git clone https://github.com/NguyenTienAnh8365/Transformer-train-from-scratch-and-Pre-Trained-model-for-text-CLS.git
    cd Transformer-train-from-scratch-and-Pre-Trained-model-for-text-CLS
    ```
 
